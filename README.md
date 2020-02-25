@@ -1,2 +1,2 @@
 # JavaScript-Data-Structures
-Data STructures created from JS
+Data Structures created from JS
